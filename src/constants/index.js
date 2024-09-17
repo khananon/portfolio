@@ -47,13 +47,13 @@ export const PROJECTS = [
     title: "Android Chat Application",
     image: project1,
     description: `Developed an Android chat application using kotlin and integrated Firebase for real-time update. Implemented features such as user authentication,  and multimedia uploading ,like ,story  sharing.`,
-    technologies: ["Kotlin", "Firebase"],
+    technologies: ["Kotlin", "Firebase","UI/UX Design"],
   },
   {
-    title: "Advanced Attendance System",
+    title: "AI-Powered Multimodal Chatbot using Gemini API",
     image: project2,
-    description: `Created an advanced attendance system using OpenCV in Python. Utilized facial recognition to automatically mark attendance for users.`,
-    technologies: ["Python", "OpenCV"],
+    description: `I developed an intelligent, multimodal chatbot using the Gemini API, capable of processing and responding to both text and image-based queries. Leveraging the powerful capabilities of the Gemini model, this chatbot provides seamless, context-aware interactions by analyzing text inputs and interpreting images. The integration of these two modalities enables enhanced search capabilities, offering a user-friendly solution for a wide range of applications, from conversational AI to visual search engines.  `,
+    technologies: ["JAVA", "Gemini API","Asynchronous Callbacks","UI/UX Design"],
   },
   {
     title: "SGPA Calculator Android Application",
@@ -65,14 +65,14 @@ export const PROJECTS = [
     title: "MemeChat Android Application",
     image: project4,
     description: `Developed an Android application, MemeChat, that provides users with a feed of memes fetched using an external API. Designed an intuitive user interface for meme browsing and sharing.`,
-    technologies: ["Java", "API Integration"],
+    technologies: ["Java", "API Integration","UI/UX Design"],
   },
 ];
 
 export const CONTACT = {
   name: "Ibrahim Khan",
   address: "Namdev Enclave, ISBT, Dehradun- 248001",
-  phoneNo: "+91 9058955529",
+  phoneNo: "+919058955529",
   email: "anonhake@gmail.com",
   linkedIn: "https://www.linkedin.com/in/ibrahim-khan-2158b7180",
   github: "https://github.com/khananon",
